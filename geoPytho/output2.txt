@@ -1,0 +1,15 @@
+Geomagnetic field values at: 34.0° / 115.0°, at altitude 0.0, for 2020.0
+Declination (D):-5.47°
+Inclination (I): 52.02°
+Horizontal intensity (H): 31871.7nT
+Total intensity (F)     : 51787.5nT
+North component (X)     : 31726.7nT
+East component (Y)      : -3037.2nT
+Vertical component (Z)  : 40818.4nT
+Declination SV (D) : 6.06arcmin/yr
+Inclination SV (I) :-2.83arcmin/yr
+Horizontal SV (H)  :   -5.7nT/yr
+Total SV (F)       :   45.5nT/yr
+North SV (X)       :  -11.0nT/yr
+East SV (Y)        :  -55.4nT/yr
+Vertical SV (Z)    :   62.1nT/yr
