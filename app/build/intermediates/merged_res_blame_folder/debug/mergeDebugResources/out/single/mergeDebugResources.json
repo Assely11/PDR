@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_chuanganqi.png.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/chuanganqi.png"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_weixing.png.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/weixing.png"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_baocun.png.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/baocun.png"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_ss.png.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/ss.png"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable-normal-long_earth_coord.png.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable-normal-long/earth_coord.png"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable-normal-long_my_norm_border_right.xml.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable-normal-long/my_norm_border_right.xml"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_shezhi.png.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/shezhi.png"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_compass.png.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/compass.png"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable-normal-long_phone_coord.png.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable-normal-long/phone_coord.png"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_mybutton2.xml.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/mybutton2.xml"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_textviewpage2.xml.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/textviewpage2.xml"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_textviewx.xml.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/textviewx.xml"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable-normal-long_my_norm_border_bottom.xml.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable-normal-long/my_norm_border_bottom.xml"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable-normal-long_my_norm_border.xml.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable-normal-long/my_norm_border.xml"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable-normal-long_pdrsystem.png.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable-normal-long/pdrsystem.png"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_line.png.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/line.png"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.navigation.app-debug-24:/layout_activity_main.xml.flat",
+        "source": "com.example.navigation.app-main-26:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_time.xml.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/time.xml"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_postright.xml.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/postright.xml"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/layout_activity_main.xml.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_time_chart.xml.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/time_chart.xml"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_daohang.png.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/daohang.png"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable-normal-long_my_sensor_desc.xml.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable-normal-long/my_sensor_desc.xml"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_map__easyicon.png.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/map__easyicon.png"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_textviewz.xml.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/textviewz.xml"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_satellite.png.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/satellite.png"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_postfoward.xml.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/postfoward.xml"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_mybutton.xml.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/mybutton.xml"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_arrow.png.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/arrow.png"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_postback.xml.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/postback.xml"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_postleft.xml.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/postleft.xml"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable_textviewy.xml.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable/textviewy.xml"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable-normal-long_my_setting.xml.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable-normal-long/my_setting.xml"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable-normal-long_time_desc.xml.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-main-26:/drawable-normal-long/time_desc.xml"
+    },
+    {
+        "merged": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-debug-24:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/jake/.gradle/daemon/8.7/com.example.navigation.app-pngs-20:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    }
+]

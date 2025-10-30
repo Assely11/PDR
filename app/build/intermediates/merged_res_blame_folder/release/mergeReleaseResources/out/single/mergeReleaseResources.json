@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_textviewz.xml.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/textviewz.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_chuanganqi.png.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/chuanganqi.png"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.navigation.app-main-25:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.navigation.app-main-25:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_textviewpage2.xml.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/textviewpage2.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.navigation.app-main-25:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_compass.png.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/compass.png"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable-normal-long_my_norm_border_right.xml.flat",
+        "source": "com.example.navigation.app-main-25:/drawable-normal-long/my_norm_border_right.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_textviewx.xml.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/textviewx.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.navigation.app-main-25:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable-normal-long_my_sensor_desc.xml.flat",
+        "source": "com.example.navigation.app-main-25:/drawable-normal-long/my_sensor_desc.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_postleft.xml.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/postleft.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.navigation.app-main-25:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable-normal-long_my_setting.xml.flat",
+        "source": "com.example.navigation.app-main-25:/drawable-normal-long/my_setting.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_baocun.png.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/baocun.png"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable-normal-long_pdrsystem.png.flat",
+        "source": "com.example.navigation.app-main-25:/drawable-normal-long/pdrsystem.png"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.navigation.app-main-25:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_daohang.png.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/daohang.png"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.navigation.app-main-25:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.navigation.app-main-25:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_postright.xml.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/postright.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable-normal-long_earth_coord.png.flat",
+        "source": "com.example.navigation.app-main-25:/drawable-normal-long/earth_coord.png"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_ss.png.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/ss.png"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_weixing.png.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/weixing.png"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.navigation.app-main-25:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.navigation.app-main-25:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.navigation.app-pngs-20:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_textviewy.xml.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/textviewy.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/layout_activity_main.xml.flat",
+        "source": "com.example.navigation.app-main-25:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable-normal-long_phone_coord.png.flat",
+        "source": "com.example.navigation.app-main-25:/drawable-normal-long/phone_coord.png"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.navigation.app-main-25:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.navigation.app-main-25:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable-normal-long_time_desc.xml.flat",
+        "source": "com.example.navigation.app-main-25:/drawable-normal-long/time_desc.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_postfoward.xml.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/postfoward.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_arrow.png.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/arrow.png"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_satellite.png.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/satellite.png"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_time.xml.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/time.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable-normal-long_my_norm_border.xml.flat",
+        "source": "com.example.navigation.app-main-25:/drawable-normal-long/my_norm_border.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_map__easyicon.png.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/map__easyicon.png"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable-normal-long_my_norm_border_bottom.xml.flat",
+        "source": "com.example.navigation.app-main-25:/drawable-normal-long/my_norm_border_bottom.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_line.png.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/line.png"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_time_chart.xml.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/time_chart.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_mybutton2.xml.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/mybutton2.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_postback.xml.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/postback.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_mybutton.xml.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/mybutton.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-release-24:/drawable_shezhi.png.flat",
+        "source": "com.example.navigation.app-main-25:/drawable/shezhi.png"
+    }
+]

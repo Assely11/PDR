@@ -1,0 +1,115 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.navigation"
+4    android:versionCode="10"
+5    android:versionName="1.0.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="35" />
+10    <!-- 访问网络，进行地图相关业务数据请求，包括地图数据，路线规划，POI检索等 -->
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:5:5-66
+11-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:5:22-64
+12    <!-- 获取网络状态，根据网络状态切换进行数据请求网络转换 -->
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:7:5-78
+13-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:7:22-76
+14    <!-- 读取外置存储。如果开发者使用了so动态加载功能并且把so文件放在了外置存储区域，则需要申请该权限，否则不需要 -->
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:9:5-79
+15-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:9:22-77
+16    <!-- 写外置存储。如果开发者使用了离线地图，并且数据写在外置存储区域，则需要申请该权限 -->
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:11:5-80
+17-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:11:22-78
+18    <!-- 这个权限用于进行网络定位 -->
+19    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+19-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:13:5-81
+19-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:13:22-78
+20    <!-- 这个权限用于访问GPS定位 -->
+21    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+21-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:15:5-79
+21-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:15:22-76
+22    <!-- 保持屏幕常亮 -->
+23    <uses-permission android:name="android.permission.WAKE_LOCK" />
+23-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:17:5-67
+23-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:17:22-65
+24
+25    <application
+25-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:19:5-42:19
+26        android:allowBackup="true"
+26-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:20:13-39
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.7.0] /Users/jake/.gradle/caches/transforms-4/52f69dbab50b461ec45c63c0d93b6d92/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+28        android:debuggable="true"
+29        android:extractNativeLibs="true"
+30        android:icon="@drawable/daohang"
+30-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:21:13-45
+31        android:label="@string/app_name"
+31-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:22:13-45
+32        android:roundIcon="@drawable/daohang"
+32-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:23:13-50
+33        android:supportsRtl="true"
+33-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:24:13-39
+34        android:testOnly="true"
+35        android:theme="@style/Theme.Navigation" >
+35-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:25:13-52
+36        <activity
+36-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:26:9-34:20
+37            android:name="com.example.navigation.MainActivity"
+37-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:27:17-45
+38            android:exported="true" >
+38-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:28:17-40
+39            <intent-filter>
+39-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:29:13-33:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:30:17-68
+40-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:30:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:32:17-76
+42-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:32:27-74
+43            </intent-filter>
+44        </activity>
+45
+46        <meta-data
+46-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:36:9-38:67
+47            android:name="com.baidu.lbsapi.API_KEY"
+47-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:37:17-56
+48            android:value="7HM5d0Ke3EdbbixQxvs7AshtdWFey8UR" />
+48-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:38:17-65
+49
+50        <service
+50-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:39:9-41:45
+51            android:name="com.baidu.location.f"
+51-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:39:18-53
+52            android:enabled="true"
+52-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:40:18-40
+53            android:process=":remote" />
+53-->/Users/jake/Documents/GitHub/PDR/app/src/main/AndroidManifest.xml:41:18-43
+54
+55        <provider
+55-->[androidx.emoji2:emoji2:1.0.0] /Users/jake/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+56            android:name="androidx.startup.InitializationProvider"
+56-->[androidx.emoji2:emoji2:1.0.0] /Users/jake/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+57            android:authorities="com.example.navigation.androidx-startup"
+57-->[androidx.emoji2:emoji2:1.0.0] /Users/jake/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+58            android:exported="false" >
+58-->[androidx.emoji2:emoji2:1.0.0] /Users/jake/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+59            <meta-data
+59-->[androidx.emoji2:emoji2:1.0.0] /Users/jake/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+60                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+60-->[androidx.emoji2:emoji2:1.0.0] /Users/jake/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+61                android:value="androidx.startup" />
+61-->[androidx.emoji2:emoji2:1.0.0] /Users/jake/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+62            <meta-data
+62-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/jake/.gradle/caches/transforms-4/3f3f5ee7cdf7ea41ef440236ab83a03f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+63                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+63-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/jake/.gradle/caches/transforms-4/3f3f5ee7cdf7ea41ef440236ab83a03f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+64                android:value="androidx.startup" />
+64-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/jake/.gradle/caches/transforms-4/3f3f5ee7cdf7ea41ef440236ab83a03f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+65        </provider>
+66    </application>
+67
+68</manifest>
